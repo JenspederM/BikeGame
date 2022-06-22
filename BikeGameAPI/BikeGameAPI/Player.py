@@ -1,6 +1,6 @@
 from enum import Enum
 from typing import List, Tuple
-from BikeGame.Deck import SprinterDeck, RoulerDeck, Card, CardTypes
+from BikeGameAPI.Deck import SprinterDeck, RoulerDeck, Card
 
 import random
 
